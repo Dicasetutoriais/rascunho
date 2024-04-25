@@ -1,5 +1,5 @@
 #!/bin/bash
-pdtmod=bitbucket.org/phoenixxz2023/paineldtunnelmodd80/downloads
+pdtmod=https://github.com/Dicasetutoriais/rascunho
 banner(){
 cat <<FECHA
  
