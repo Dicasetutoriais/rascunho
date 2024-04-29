@@ -1,5 +1,5 @@
 #!/bin/bash
-pdtmod=https://github.com/Dicasetutoriais/rascunho
+pdtmod=https://github.com/Dicasetutoriais/rascunho/blob/main/
 banner(){
 cat <<FECHA
  
