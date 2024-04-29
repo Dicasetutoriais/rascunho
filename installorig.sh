@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-sitedwn=https://github.com/Dicasetutoriais/rascunho
+sitedwn=https://github.com/Dicasetutoriais/rascunho/blob/main/
 IP=$(wget -qO- ipv4.icanhazip.com)
 [[ $(crontab -l | grep -c "crondtunnel.sh") != '0' ]] && crontab -l | grep -v 'crondtunnel.sh' | crontab -
 function os_system {
